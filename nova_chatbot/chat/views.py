@@ -3,7 +3,7 @@ from django.http import JsonResponse
 import cohere
 
 # Initialize the Cohere client with your API key
-co = cohere.Client('PW4VcTg8XiWXZ3BsX39QJKlXOlHhkbpe1efHNL6i')
+co = cohere.Client('COHERE_API_KEY')
 
 # Initialize conversation history
 conversation_history = ""

@@ -20,7 +20,7 @@ To run this project, you'll need to have Python installed along with the followi
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/YOUR_USERNAME/Nova_ChatBot.git
+   git clone https://github.com/MuhammadAsad256/Nova_ChatBot.git
    cd Nova_ChatBot
 
 2. Clone the repository:
